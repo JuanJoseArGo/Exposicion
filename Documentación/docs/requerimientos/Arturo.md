@@ -7,4 +7,4 @@ El gobierno asegura que los objetivos empresariales se logran evaluando las nece
 La mayoría de los ejecutivos conocen la importancia de los marcos generales de control en relación con la responsabilidad fiduciaria. Sin embargo, no necesariamente son conscientes del nivel de detalle de cada uno.Si bien estos estándares y modelos enfatizan el control del negocio y la seguridad y servicio de TI, COBIT es el único que se ocupa de los controles específicos de TI desde la perspectiva del negocio. 
 
 # ¿Cómo presentar esta metodologia  a los ejecutivos?
-COBIT da valor al accionista por estar guaido por los objetivos del negocio, la alineacion con estandares internacionales reconocidos y su simplicidad.
+COBIT da valor al accionista por estar guaido por los objetivos del negocio, la alineacion con estandares internacionales reconocidos y su simplicidad. 
