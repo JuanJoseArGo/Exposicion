@@ -12,9 +12,9 @@ extra_css:
 nav:
     - Problema: todo.md
     - Documentacion:
-        - Introduccion: Paola.md
-        - Estandares: Mateo.md
-        - Caracteristicas: Juan Jose.md
-        - Metodologia: Arturo.md
+        - Introduccion: requerimientos/Paola.md
+        - Estandares: requerimientos/Mateo.md
+        - Caracteristicas: requerimientos/Juan Jose.md
+        - Metodologia: requerimientos/Arturo.md
 copyright: ©GMDXX
 site_author: GMDXX
