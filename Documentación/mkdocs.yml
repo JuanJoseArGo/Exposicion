@@ -1,4 +1,4 @@
-site_name: Proyecto Final
+site_name: Exposicion COBIT
 dev_addr: 127.0.0.1:8002
 # site_url: 
 # repo_url: 
@@ -11,14 +11,10 @@ extra_css:
     - css/page.css
 nav:
     - Problema: todo.md
-    - Requerimientos:
-        - Requerimiento 1: todo.md
-        - Requerimiento 2: todo.md
-    - Modelado:
-        - Inicio: todo.md
-    - Diseño:
-        - Inicio: todo.md
-    - Validación:
-        - Inicio: todo.md
+    - Documentacion:
+        - Introduccion: Paola.md
+        - Estandares: Mateo.md
+        - Caracteristicas: Juan Jose.md
+        - Metodologia: Arturo.md
 copyright: ©GMDXX
 site_author: GMDXX
