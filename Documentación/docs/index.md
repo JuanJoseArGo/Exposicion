@@ -13,11 +13,21 @@ Integrantes del Equipo:
 
 | Nombre | correo |
 | --- | --- |
-| Name 1 | my.email@mail.com |
-| Name 2 | my.email@mail.com |
+| Juan Jose Armenta Gonzalez | juanjo100621@hotmail.com |
+| Arturo Jiménez Montero | jimenezmarturo96@gmail.com |
+| Mateo Cárdenas José Pablo | mateocardenaspablo@gmail.com |
+| Cruz Vázquez Paola | 317355819@pcpuma.acatla.unam.mx |
 
 &nbsp;
 # Objetivo
+Describir la importancia de la metodologia COBIT
 
 &nbsp;
 # Problematica
+Exponer:
+- Estándar de calidad de software
+- Metodología
+- Objetivos de la metodología
+- Características
+- Ciclos de vida
+- Agregar Conclusiones
